@@ -6,8 +6,8 @@ FlyRail is a desktop-friendly travel booking website concept based on the provid
 
 Add your Figma links here:
 
-- **Figma Design:** [Open Figma Design](PASTE_FIGMA_DESIGN_LINK_HERE)
-- **Figma Prototype:** [Open Figma Prototype](PASTE_FIGMA_PROTOTYPE_LINK_HERE)
+- **Figma Design:** [Open Figma Design](https://www.figma.com/design/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?node-id=0-1&m=dev)
+- **Figma Prototype:** [Open Figma Prototype](https://www.figma.com/proto/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?node-id=9-142&p=f&m=dev&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A142&t=BDWQQ37Wk5gaSerr-1  )
 
 Replace the two `PASTE_..._LINK_HERE` placeholders with the share URLs from Figma.
 
